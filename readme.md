@@ -4,6 +4,9 @@ https://github.com/firebase/firebase-js-sdk/issues/6928
 
 ## Steps To Reproduce
 
+Note that I have only tried this on macOS, not sure if it happens on Windows or
+Linux.
+
 ### This works well
 
 - `npx create-next-app`
