@@ -2,6 +2,11 @@
 
 https://github.com/firebase/firebase-js-sdk/issues/6928
 
+This might also be a PNPM issue, I am not 100 % sure I also opened an issue with
+them:
+
+https://github.com/pnpm/pnpm/issues/5912
+
 ## Steps To Reproduce
 
 Note that I have only tried this on macOS, not sure if it happens on Windows or
